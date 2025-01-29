@@ -1,13 +1,26 @@
 p {
     font-weight: bold;
-    margin:auto
+    margin:auto;
 }
 body{
-    background-color: lightblue
+    background-color: #5CA1D7;
+    text-align: center;
 }
-h1,h2 {
+h1{
+    color: white;
+    font-weight: bold;
+}
+h2,h3{
     color: white
 }
 div{
-    text-align:center
+    width: 350 px;
+    text-align: center;
+    margin: 0 auto;
+}
+ol{
+    font-weight: bold;
+    text-align: left;
+    width: 350 px;
+    margin: 0 auto;
 }
